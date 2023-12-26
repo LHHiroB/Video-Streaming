@@ -1850,23 +1850,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {},
+    "C:\\Users\\khoah\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WorkSpaceFor_Y3\\SE400 - Seminar on modern issues of Software Technology\\Video-Streaming\\Backend\\mysignalR.csproj",
+      "projectUniqueName": "D:\\Backup\\Năm 3\\Video-Streaming\\Backend\\mysignalR.csproj",
       "projectName": "mysignalR",
-      "projectPath": "D:\\WorkSpaceFor_Y3\\SE400 - Seminar on modern issues of Software Technology\\Video-Streaming\\Backend\\mysignalR.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\WorkSpaceFor_Y3\\SE400 - Seminar on modern issues of Software Technology\\Video-Streaming\\Backend\\obj\\",
+      "projectPath": "D:\\Backup\\Năm 3\\Video-Streaming\\Backend\\mysignalR.csproj",
+      "packagesPath": "C:\\Users\\khoah\\.nuget\\packages\\",
+      "outputPath": "D:\\Backup\\Năm 3\\Video-Streaming\\Backend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\khoah\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1954,7 +1954,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   },
