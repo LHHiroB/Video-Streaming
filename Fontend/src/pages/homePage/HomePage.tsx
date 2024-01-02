@@ -22,29 +22,6 @@ const MyApp_HomePage = (props: Props) => {
     }
   });
   return (
-    <>
-      <h1>Home Page</h1>
-      <ButtonLogout />
-      <div>
-        <input
-          type="text"
-          value={message}
-          onChange={(e) => setMessage(e.target.value)}
-          placeholder="Enter your message"
-        />
-        <button
-          onClick={() => {
-            myChannel.send({
-              type: "broadcast",
-              event: "test-my-messages",
-              payload: { message },
-            });
-          }}
-        >
-          Send Message
-        </button>
-      </div>
-    </>
   );
 };
 

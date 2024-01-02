@@ -19,27 +19,6 @@ const MyApp_RegisterPage: React.FC = (props: Props) => {
     });
   };
   return (
-    <>
-      {isLoading === false ? (
-        <>
-          <input
-            type="text"
-            value={email}
-            onChange={(e) => setEmail(e.target.value)}
-            placeholder="Enter your email"
-          />
-          <input
-            type="text"
-            value={password}
-            onChange={(e) => setPassword(e.target.value)}
-            placeholder="Enter your password"
-          />
-          <button onClick={handleOnClick}>Register</button>
-        </>
-      ) : (
-        <CircularProgress isIndeterminate color="green.300" />
-      )}
-    </>
   );
 };
 
