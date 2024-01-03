@@ -31,6 +31,39 @@ const MyApp_LoginPage = (props: Props) => {
     });
   };
   return (
+    <>
+      {isLoading === false ? (
+        <form
+          onSubmit={(e) => {
+            e.preventDefault();
+            handleOnClick();
+          }}
+        >
+          <FormControl isRequired>
+            <FormLabel>Email</FormLabel>
+            <Input
+              type="text"
+              value={email}
+              onChange={(e) => setEmail(e.target.value)}
+              placeholder="Enter your email"
+            />
+            <FormLabel>Password</FormLabel>
+            <Input
+              type="text"
+              value={password}
+              onChange={(e) => setPassword(e.target.value)}
+              placeholder="Enter your password"
+            />
+            <Button type="submit" onClick={handleOnClick}>
+              Login
+            </Button>
+            <ButtonRegister />
+          </FormControl>
+        </form>
+      ) : (
+        <CircularProgress isIndeterminate color="green.300" />
+      )}
+    </>
   );
 };
 
