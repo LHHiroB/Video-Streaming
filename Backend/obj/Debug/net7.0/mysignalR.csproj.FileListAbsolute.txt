@@ -1,101 +1,90 @@
-D:\WorkSpaceFor_Y3\SE400 - Seminar on modern issues of Software Technology\Video-Streaming\Backend\bin\Debug\net7.0\appsettings.Development.json
-D:\WorkSpaceFor_Y3\SE400 - Seminar on modern issues of Software Technology\Video-Streaming\Backend\bin\Debug\net7.0\appsettings.json
-D:\WorkSpaceFor_Y3\SE400 - Seminar on modern issues of Software Technology\Video-Streaming\Backend\bin\Debug\net7.0\mysignalR.exe
-D:\WorkSpaceFor_Y3\SE400 - Seminar on modern issues of Software Technology\Video-Streaming\Backend\bin\Debug\net7.0\mysignalR.deps.json
-D:\WorkSpaceFor_Y3\SE400 - Seminar on modern issues of Software Technology\Video-Streaming\Backend\bin\Debug\net7.0\mysignalR.runtimeconfig.json
-D:\WorkSpaceFor_Y3\SE400 - Seminar on modern issues of Software Technology\Video-Streaming\Backend\bin\Debug\net7.0\mysignalR.dll
-D:\WorkSpaceFor_Y3\SE400 - Seminar on modern issues of Software Technology\Video-Streaming\Backend\bin\Debug\net7.0\mysignalR.pdb
-D:\WorkSpaceFor_Y3\SE400 - Seminar on modern issues of Software Technology\Video-Streaming\Backend\bin\Debug\net7.0\Humanizer.dll
-D:\WorkSpaceFor_Y3\SE400 - Seminar on modern issues of Software Technology\Video-Streaming\Backend\bin\Debug\net7.0\Microsoft.AspNet.SignalR.Core.dll
-D:\WorkSpaceFor_Y3\SE400 - Seminar on modern issues of Software Technology\Video-Streaming\Backend\bin\Debug\net7.0\Microsoft.AspNet.SignalR.SystemWeb.dll
-D:\WorkSpaceFor_Y3\SE400 - Seminar on modern issues of Software Technology\Video-Streaming\Backend\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
-D:\WorkSpaceFor_Y3\SE400 - Seminar on modern issues of Software Technology\Video-Streaming\Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
-D:\WorkSpaceFor_Y3\SE400 - Seminar on modern issues of Software Technology\Video-Streaming\Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\WorkSpaceFor_Y3\SE400 - Seminar on modern issues of Software Technology\Video-Streaming\Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
-D:\WorkSpaceFor_Y3\SE400 - Seminar on modern issues of Software Technology\Video-Streaming\Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\WorkSpaceFor_Y3\SE400 - Seminar on modern issues of Software Technology\Video-Streaming\Backend\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
-D:\WorkSpaceFor_Y3\SE400 - Seminar on modern issues of Software Technology\Video-Streaming\Backend\bin\Debug\net7.0\Microsoft.OpenApi.dll
-D:\WorkSpaceFor_Y3\SE400 - Seminar on modern issues of Software Technology\Video-Streaming\Backend\bin\Debug\net7.0\Microsoft.Owin.dll
-D:\WorkSpaceFor_Y3\SE400 - Seminar on modern issues of Software Technology\Video-Streaming\Backend\bin\Debug\net7.0\Microsoft.Owin.Host.SystemWeb.dll
-D:\WorkSpaceFor_Y3\SE400 - Seminar on modern issues of Software Technology\Video-Streaming\Backend\bin\Debug\net7.0\Microsoft.Owin.Security.dll
-D:\WorkSpaceFor_Y3\SE400 - Seminar on modern issues of Software Technology\Video-Streaming\Backend\bin\Debug\net7.0\Mono.TextTemplating.dll
-D:\WorkSpaceFor_Y3\SE400 - Seminar on modern issues of Software Technology\Video-Streaming\Backend\bin\Debug\net7.0\Newtonsoft.Json.dll
-D:\WorkSpaceFor_Y3\SE400 - Seminar on modern issues of Software Technology\Video-Streaming\Backend\bin\Debug\net7.0\Npgsql.dll
-D:\WorkSpaceFor_Y3\SE400 - Seminar on modern issues of Software Technology\Video-Streaming\Backend\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
-D:\WorkSpaceFor_Y3\SE400 - Seminar on modern issues of Software Technology\Video-Streaming\Backend\bin\Debug\net7.0\Owin.dll
-D:\WorkSpaceFor_Y3\SE400 - Seminar on modern issues of Software Technology\Video-Streaming\Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
-D:\WorkSpaceFor_Y3\SE400 - Seminar on modern issues of Software Technology\Video-Streaming\Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-D:\WorkSpaceFor_Y3\SE400 - Seminar on modern issues of Software Technology\Video-Streaming\Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\WorkSpaceFor_Y3\SE400 - Seminar on modern issues of Software Technology\Video-Streaming\Backend\bin\Debug\net7.0\System.CodeDom.dll
-D:\WorkSpaceFor_Y3\SE400 - Seminar on modern issues of Software Technology\Video-Streaming\Backend\obj\Debug\net7.0\mysignalR.csproj.AssemblyReference.cache
-D:\WorkSpaceFor_Y3\SE400 - Seminar on modern issues of Software Technology\Video-Streaming\Backend\obj\Debug\net7.0\mysignalR.GeneratedMSBuildEditorConfig.editorconfig
-D:\WorkSpaceFor_Y3\SE400 - Seminar on modern issues of Software Technology\Video-Streaming\Backend\obj\Debug\net7.0\mysignalR.AssemblyInfoInputs.cache
-D:\WorkSpaceFor_Y3\SE400 - Seminar on modern issues of Software Technology\Video-Streaming\Backend\obj\Debug\net7.0\mysignalR.AssemblyInfo.cs
-D:\WorkSpaceFor_Y3\SE400 - Seminar on modern issues of Software Technology\Video-Streaming\Backend\obj\Debug\net7.0\mysignalR.csproj.CoreCompileInputs.cache
-D:\WorkSpaceFor_Y3\SE400 - Seminar on modern issues of Software Technology\Video-Streaming\Backend\obj\Debug\net7.0\mysignalR.MvcApplicationPartsAssemblyInfo.cs
-D:\WorkSpaceFor_Y3\SE400 - Seminar on modern issues of Software Technology\Video-Streaming\Backend\obj\Debug\net7.0\mysignalR.MvcApplicationPartsAssemblyInfo.cache
-D:\WorkSpaceFor_Y3\SE400 - Seminar on modern issues of Software Technology\Video-Streaming\Backend\obj\Debug\net7.0\staticwebassets\msbuild.mysignalR.Microsoft.AspNetCore.StaticWebAssets.props
-D:\WorkSpaceFor_Y3\SE400 - Seminar on modern issues of Software Technology\Video-Streaming\Backend\obj\Debug\net7.0\staticwebassets\msbuild.build.mysignalR.props
-D:\WorkSpaceFor_Y3\SE400 - Seminar on modern issues of Software Technology\Video-Streaming\Backend\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.mysignalR.props
-D:\WorkSpaceFor_Y3\SE400 - Seminar on modern issues of Software Technology\Video-Streaming\Backend\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.mysignalR.props
-D:\WorkSpaceFor_Y3\SE400 - Seminar on modern issues of Software Technology\Video-Streaming\Backend\obj\Debug\net7.0\staticwebassets.pack.json
-D:\WorkSpaceFor_Y3\SE400 - Seminar on modern issues of Software Technology\Video-Streaming\Backend\obj\Debug\net7.0\staticwebassets.build.json
-D:\WorkSpaceFor_Y3\SE400 - Seminar on modern issues of Software Technology\Video-Streaming\Backend\obj\Debug\net7.0\staticwebassets.development.json
-D:\WorkSpaceFor_Y3\SE400 - Seminar on modern issues of Software Technology\Video-Streaming\Backend\obj\Debug\net7.0\scopedcss\bundle\mysignalR.styles.css
-D:\WorkSpaceFor_Y3\SE400 - Seminar on modern issues of Software Technology\Video-Streaming\Backend\obj\Debug\net7.0\mysignalR.csproj.CopyComplete
-D:\WorkSpaceFor_Y3\SE400 - Seminar on modern issues of Software Technology\Video-Streaming\Backend\obj\Debug\net7.0\mysignalR.dll
-D:\WorkSpaceFor_Y3\SE400 - Seminar on modern issues of Software Technology\Video-Streaming\Backend\obj\Debug\net7.0\refint\mysignalR.dll
-D:\WorkSpaceFor_Y3\SE400 - Seminar on modern issues of Software Technology\Video-Streaming\Backend\obj\Debug\net7.0\mysignalR.pdb
-D:\WorkSpaceFor_Y3\SE400 - Seminar on modern issues of Software Technology\Video-Streaming\Backend\obj\Debug\net7.0\mysignalR.genruntimeconfig.cache
-D:\WorkSpaceFor_Y3\SE400 - Seminar on modern issues of Software Technology\Video-Streaming\Backend\obj\Debug\net7.0\ref\mysignalR.dll
-D:\Backup\Năm 3\Video-Streaming\Backend\bin\Debug\net7.0\appsettings.Development.json
-D:\Backup\Năm 3\Video-Streaming\Backend\bin\Debug\net7.0\appsettings.json
-D:\Backup\Năm 3\Video-Streaming\Backend\bin\Debug\net7.0\package-lock.json
-D:\Backup\Năm 3\Video-Streaming\Backend\bin\Debug\net7.0\mysignalR.exe
-D:\Backup\Năm 3\Video-Streaming\Backend\bin\Debug\net7.0\mysignalR.deps.json
-D:\Backup\Năm 3\Video-Streaming\Backend\bin\Debug\net7.0\mysignalR.runtimeconfig.json
-D:\Backup\Năm 3\Video-Streaming\Backend\bin\Debug\net7.0\mysignalR.dll
-D:\Backup\Năm 3\Video-Streaming\Backend\bin\Debug\net7.0\mysignalR.pdb
-D:\Backup\Năm 3\Video-Streaming\Backend\bin\Debug\net7.0\Humanizer.dll
-D:\Backup\Năm 3\Video-Streaming\Backend\bin\Debug\net7.0\Microsoft.AspNet.SignalR.Core.dll
-D:\Backup\Năm 3\Video-Streaming\Backend\bin\Debug\net7.0\Microsoft.AspNet.SignalR.SystemWeb.dll
-D:\Backup\Năm 3\Video-Streaming\Backend\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
-D:\Backup\Năm 3\Video-Streaming\Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
-D:\Backup\Năm 3\Video-Streaming\Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\Backup\Năm 3\Video-Streaming\Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
-D:\Backup\Năm 3\Video-Streaming\Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\Backup\Năm 3\Video-Streaming\Backend\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
-D:\Backup\Năm 3\Video-Streaming\Backend\bin\Debug\net7.0\Microsoft.OpenApi.dll
-D:\Backup\Năm 3\Video-Streaming\Backend\bin\Debug\net7.0\Microsoft.Owin.dll
-D:\Backup\Năm 3\Video-Streaming\Backend\bin\Debug\net7.0\Microsoft.Owin.Host.SystemWeb.dll
-D:\Backup\Năm 3\Video-Streaming\Backend\bin\Debug\net7.0\Microsoft.Owin.Security.dll
-D:\Backup\Năm 3\Video-Streaming\Backend\bin\Debug\net7.0\Mono.TextTemplating.dll
-D:\Backup\Năm 3\Video-Streaming\Backend\bin\Debug\net7.0\Newtonsoft.Json.dll
-D:\Backup\Năm 3\Video-Streaming\Backend\bin\Debug\net7.0\Npgsql.dll
-D:\Backup\Năm 3\Video-Streaming\Backend\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
-D:\Backup\Năm 3\Video-Streaming\Backend\bin\Debug\net7.0\Owin.dll
-D:\Backup\Năm 3\Video-Streaming\Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
-D:\Backup\Năm 3\Video-Streaming\Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-D:\Backup\Năm 3\Video-Streaming\Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\Backup\Năm 3\Video-Streaming\Backend\bin\Debug\net7.0\System.CodeDom.dll
-D:\Backup\Năm 3\Video-Streaming\Backend\obj\Debug\net7.0\mysignalR.csproj.AssemblyReference.cache
-D:\Backup\Năm 3\Video-Streaming\Backend\obj\Debug\net7.0\mysignalR.GeneratedMSBuildEditorConfig.editorconfig
-D:\Backup\Năm 3\Video-Streaming\Backend\obj\Debug\net7.0\mysignalR.AssemblyInfoInputs.cache
-D:\Backup\Năm 3\Video-Streaming\Backend\obj\Debug\net7.0\mysignalR.AssemblyInfo.cs
-D:\Backup\Năm 3\Video-Streaming\Backend\obj\Debug\net7.0\mysignalR.csproj.CoreCompileInputs.cache
-D:\Backup\Năm 3\Video-Streaming\Backend\obj\Debug\net7.0\mysignalR.MvcApplicationPartsAssemblyInfo.cs
-D:\Backup\Năm 3\Video-Streaming\Backend\obj\Debug\net7.0\mysignalR.MvcApplicationPartsAssemblyInfo.cache
-D:\Backup\Năm 3\Video-Streaming\Backend\obj\Debug\net7.0\staticwebassets\msbuild.mysignalR.Microsoft.AspNetCore.StaticWebAssets.props
-D:\Backup\Năm 3\Video-Streaming\Backend\obj\Debug\net7.0\staticwebassets\msbuild.build.mysignalR.props
-D:\Backup\Năm 3\Video-Streaming\Backend\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.mysignalR.props
-D:\Backup\Năm 3\Video-Streaming\Backend\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.mysignalR.props
-D:\Backup\Năm 3\Video-Streaming\Backend\obj\Debug\net7.0\staticwebassets.pack.json
-D:\Backup\Năm 3\Video-Streaming\Backend\obj\Debug\net7.0\staticwebassets.build.json
-D:\Backup\Năm 3\Video-Streaming\Backend\obj\Debug\net7.0\staticwebassets.development.json
-D:\Backup\Năm 3\Video-Streaming\Backend\obj\Debug\net7.0\scopedcss\bundle\mysignalR.styles.css
-D:\Backup\Năm 3\Video-Streaming\Backend\obj\Debug\net7.0\mysignalR.csproj.CopyComplete
-D:\Backup\Năm 3\Video-Streaming\Backend\obj\Debug\net7.0\mysignalR.dll
-D:\Backup\Năm 3\Video-Streaming\Backend\obj\Debug\net7.0\refint\mysignalR.dll
-D:\Backup\Năm 3\Video-Streaming\Backend\obj\Debug\net7.0\mysignalR.pdb
-D:\Backup\Năm 3\Video-Streaming\Backend\obj\Debug\net7.0\mysignalR.genruntimeconfig.cache
-D:\Backup\Năm 3\Video-Streaming\Backend\obj\Debug\net7.0\ref\mysignalR.dll
+D:\Workspace\Template\mysignalR\bin\Debug\net7.0\appsettings.Development.json
+D:\Workspace\Template\mysignalR\bin\Debug\net7.0\appsettings.json
+D:\Workspace\Template\mysignalR\bin\Debug\net7.0\mysignalR.exe
+D:\Workspace\Template\mysignalR\bin\Debug\net7.0\mysignalR.deps.json
+D:\Workspace\Template\mysignalR\bin\Debug\net7.0\mysignalR.runtimeconfig.json
+D:\Workspace\Template\mysignalR\bin\Debug\net7.0\mysignalR.dll
+D:\Workspace\Template\mysignalR\bin\Debug\net7.0\mysignalR.pdb
+D:\Workspace\Template\mysignalR\bin\Debug\net7.0\Microsoft.AspNet.SignalR.Core.dll
+D:\Workspace\Template\mysignalR\bin\Debug\net7.0\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Workspace\Template\mysignalR\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Workspace\Template\mysignalR\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Workspace\Template\mysignalR\bin\Debug\net7.0\Microsoft.Owin.dll
+D:\Workspace\Template\mysignalR\bin\Debug\net7.0\Microsoft.Owin.Host.SystemWeb.dll
+D:\Workspace\Template\mysignalR\bin\Debug\net7.0\Microsoft.Owin.Security.dll
+D:\Workspace\Template\mysignalR\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Workspace\Template\mysignalR\bin\Debug\net7.0\Owin.dll
+D:\Workspace\Template\mysignalR\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Workspace\Template\mysignalR\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Workspace\Template\mysignalR\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Workspace\Template\mysignalR\obj\Debug\net7.0\mysignalR.csproj.AssemblyReference.cache
+D:\Workspace\Template\mysignalR\obj\Debug\net7.0\mysignalR.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Template\mysignalR\obj\Debug\net7.0\mysignalR.AssemblyInfoInputs.cache
+D:\Workspace\Template\mysignalR\obj\Debug\net7.0\mysignalR.AssemblyInfo.cs
+D:\Workspace\Template\mysignalR\obj\Debug\net7.0\mysignalR.csproj.CoreCompileInputs.cache
+D:\Workspace\Template\mysignalR\obj\Debug\net7.0\mysignalR.MvcApplicationPartsAssemblyInfo.cs
+D:\Workspace\Template\mysignalR\obj\Debug\net7.0\mysignalR.MvcApplicationPartsAssemblyInfo.cache
+D:\Workspace\Template\mysignalR\obj\Debug\net7.0\staticwebassets\msbuild.mysignalR.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Workspace\Template\mysignalR\obj\Debug\net7.0\staticwebassets\msbuild.build.mysignalR.props
+D:\Workspace\Template\mysignalR\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.mysignalR.props
+D:\Workspace\Template\mysignalR\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.mysignalR.props
+D:\Workspace\Template\mysignalR\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Workspace\Template\mysignalR\obj\Debug\net7.0\staticwebassets.build.json
+D:\Workspace\Template\mysignalR\obj\Debug\net7.0\staticwebassets.development.json
+D:\Workspace\Template\mysignalR\obj\Debug\net7.0\scopedcss\bundle\mysignalR.styles.css
+D:\Workspace\Template\mysignalR\obj\Debug\net7.0\mysignalR.csproj.CopyComplete
+D:\Workspace\Template\mysignalR\obj\Debug\net7.0\mysignalR.dll
+D:\Workspace\Template\mysignalR\obj\Debug\net7.0\refint\mysignalR.dll
+D:\Workspace\Template\mysignalR\obj\Debug\net7.0\mysignalR.pdb
+D:\Workspace\Template\mysignalR\obj\Debug\net7.0\mysignalR.genruntimeconfig.cache
+D:\Workspace\Template\mysignalR\obj\Debug\net7.0\ref\mysignalR.dll
+D:\Workspace\PetProjects\chatapp\mysignalR\bin\Debug\net7.0\appsettings.Development.json
+D:\Workspace\PetProjects\chatapp\mysignalR\bin\Debug\net7.0\appsettings.json
+D:\Workspace\PetProjects\chatapp\mysignalR\bin\Debug\net7.0\mysignalR.exe
+D:\Workspace\PetProjects\chatapp\mysignalR\bin\Debug\net7.0\mysignalR.deps.json
+D:\Workspace\PetProjects\chatapp\mysignalR\bin\Debug\net7.0\mysignalR.runtimeconfig.json
+D:\Workspace\PetProjects\chatapp\mysignalR\bin\Debug\net7.0\mysignalR.dll
+D:\Workspace\PetProjects\chatapp\mysignalR\bin\Debug\net7.0\mysignalR.pdb
+D:\Workspace\PetProjects\chatapp\mysignalR\bin\Debug\net7.0\Microsoft.AspNet.SignalR.Core.dll
+D:\Workspace\PetProjects\chatapp\mysignalR\bin\Debug\net7.0\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Workspace\PetProjects\chatapp\mysignalR\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Workspace\PetProjects\chatapp\mysignalR\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Workspace\PetProjects\chatapp\mysignalR\bin\Debug\net7.0\Microsoft.Owin.dll
+D:\Workspace\PetProjects\chatapp\mysignalR\bin\Debug\net7.0\Microsoft.Owin.Host.SystemWeb.dll
+D:\Workspace\PetProjects\chatapp\mysignalR\bin\Debug\net7.0\Microsoft.Owin.Security.dll
+D:\Workspace\PetProjects\chatapp\mysignalR\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Workspace\PetProjects\chatapp\mysignalR\bin\Debug\net7.0\Owin.dll
+D:\Workspace\PetProjects\chatapp\mysignalR\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Workspace\PetProjects\chatapp\mysignalR\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Workspace\PetProjects\chatapp\mysignalR\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Workspace\PetProjects\chatapp\mysignalR\obj\Debug\net7.0\mysignalR.csproj.AssemblyReference.cache
+D:\Workspace\PetProjects\chatapp\mysignalR\obj\Debug\net7.0\mysignalR.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\PetProjects\chatapp\mysignalR\obj\Debug\net7.0\mysignalR.AssemblyInfoInputs.cache
+D:\Workspace\PetProjects\chatapp\mysignalR\obj\Debug\net7.0\mysignalR.AssemblyInfo.cs
+D:\Workspace\PetProjects\chatapp\mysignalR\obj\Debug\net7.0\mysignalR.csproj.CoreCompileInputs.cache
+D:\Workspace\PetProjects\chatapp\mysignalR\obj\Debug\net7.0\mysignalR.MvcApplicationPartsAssemblyInfo.cs
+D:\Workspace\PetProjects\chatapp\mysignalR\obj\Debug\net7.0\mysignalR.MvcApplicationPartsAssemblyInfo.cache
+D:\Workspace\PetProjects\chatapp\mysignalR\obj\Debug\net7.0\staticwebassets\msbuild.mysignalR.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Workspace\PetProjects\chatapp\mysignalR\obj\Debug\net7.0\staticwebassets\msbuild.build.mysignalR.props
+D:\Workspace\PetProjects\chatapp\mysignalR\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.mysignalR.props
+D:\Workspace\PetProjects\chatapp\mysignalR\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.mysignalR.props
+D:\Workspace\PetProjects\chatapp\mysignalR\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Workspace\PetProjects\chatapp\mysignalR\obj\Debug\net7.0\staticwebassets.build.json
+D:\Workspace\PetProjects\chatapp\mysignalR\obj\Debug\net7.0\staticwebassets.development.json
+D:\Workspace\PetProjects\chatapp\mysignalR\obj\Debug\net7.0\scopedcss\bundle\mysignalR.styles.css
+D:\Workspace\PetProjects\chatapp\mysignalR\obj\Debug\net7.0\mysignalR.csproj.CopyComplete
+D:\Workspace\PetProjects\chatapp\mysignalR\obj\Debug\net7.0\mysignalR.dll
+D:\Workspace\PetProjects\chatapp\mysignalR\obj\Debug\net7.0\refint\mysignalR.dll
+D:\Workspace\PetProjects\chatapp\mysignalR\obj\Debug\net7.0\mysignalR.pdb
+D:\Workspace\PetProjects\chatapp\mysignalR\obj\Debug\net7.0\mysignalR.genruntimeconfig.cache
+D:\Workspace\PetProjects\chatapp\mysignalR\obj\Debug\net7.0\ref\mysignalR.dll
+D:\Workspace\PetProjects\chatapp\mysignalR\bin\Debug\net7.0\Humanizer.dll
+D:\Workspace\PetProjects\chatapp\mysignalR\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Workspace\PetProjects\chatapp\mysignalR\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Workspace\PetProjects\chatapp\mysignalR\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Workspace\PetProjects\chatapp\mysignalR\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Workspace\PetProjects\chatapp\mysignalR\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Workspace\PetProjects\chatapp\mysignalR\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Workspace\PetProjects\chatapp\mysignalR\bin\Debug\net7.0\Npgsql.dll
+D:\Workspace\PetProjects\chatapp\mysignalR\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Workspace\PetProjects\chatapp\mysignalR\bin\Debug\net7.0\System.CodeDom.dll
